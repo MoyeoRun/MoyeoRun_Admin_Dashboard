@@ -1,46 +1,33 @@
-# Getting Started with Create React App
+<p align="center"><img width='200px' src="https://user-images.githubusercontent.com/24623403/133428437-e070fd22-8c69-4659-bb94-532b6dbde0b4.png"></p>
+<p align='center'>
+  <img src='https://img.shields.io/github/package-json/v/MoyeoRun/MoyeoRun_Admin_Dashboard'>
+  <a href="https://github.com/MoyeoRun/MoyeoRun_Admin_Dashboard/issues"><img src='https://img.shields.io/github/issues/MoyeoRun/MoyeoRun_Admin_Dashboard'></a>
+ <a href="https://github.com/MoyeoRun/MoyeoRun_Admin_Dashboard/graphs/contributors"><img src='https://img.shields.io/github/contributors/MoyeoRun/MoyeoRun_Admin_Dashboard'></a>
+ <a href='https://github.com/MoyeoRun/MoyeoRun_Admin_Dashboard/blob/main/LICENSE'><img src='https://img.shields.io/github/license/MoyeoRun/MoyeoRun_Admin_Dashboard'></a>
+</p>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# 실시간 러닝 플랫폼 모여런
 
-## Available Scripts
+> 러닝을 함께 뛰고 싶나요? 어디서든 우린 함께 뛴다! 모여런에서 새로운 러닝을 만나요.
 
-In the project directory, you can run:
+**MoyeoRun**은 실시간으로 같이 달릴 수 있는 모바일 앱 플랫폼입니다. 같은 공간에서 달리지 않아도 앱 서비스를 통해 함께 달릴 수 있도록 지원합니다.
 
-### `npm start`
+## 👨‍👩‍👧‍👦 팀 정보(Team Information)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+<table>
+   <tr>
+      <td colspan="1" align="center"><strong>Front-End Developer</strong></td>
+      <td colspan="2" align="center"><strong>Back-End Developer</strong></td>
+   </tr>
+  <tr>
+     <td align="center">
+        <a href="https://github.com/sjsjsj1246"><img src="https://avatars.githubusercontent.com/u/24623403?v=4" width="150px" alt="황인서"/><br /><sub><b>황인서</b></sub></a>
+     </td>
+     <td align="center">
+        <a href="https://github.com/qudtjs0753"><img src="https://avatars.githubusercontent.com/u/39519869?v=4" width="150px" alt="황인서"/><br /><sub><b>강병선</b></sub></a>
+     </td>
+     <td align="center">
+        <a href="https://github.com/DDing77"><img src="https://avatars.githubusercontent.com/u/75517656?v=4" width="150px" alt="황인서"/><br /><sub><b>서명교</b></sub></a>
+     </td>
+  <tr>
+</table>
